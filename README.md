@@ -1,0 +1,2 @@
+# kgb
+kenaikan gaji berkala
